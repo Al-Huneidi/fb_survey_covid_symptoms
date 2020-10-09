@@ -1,5 +1,5 @@
 # fb_survey_covid_symptoms
-Facebook Survey Data on Covid Sypmtoms
+An exploration of Facebook Survey Data on Covid Sypmtoms
 
 ## Resources
 US Symptoms Survey csv:
